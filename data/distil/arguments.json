@@ -12,5 +12,8 @@
   "N_TEST": null,
   "N_CPU": 8,
   "N_GPU": 1,
-  "N_TRIALS": 2
+  "N_TRIALS": 2,
+  "task": "ner",
+  "pretrained_model_name": "distilbert/distilbert-base-uncased",
+  "name": "distil"
 }
