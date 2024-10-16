@@ -13,6 +13,7 @@
   "N_CPU": 8,
   "N_GPU": 1,
   "N_TRIALS": 2,
+  "perturbation_interval": 2,
   "task": "ner",
   "pretrained_model_name": "distilbert/distilbert-base-uncased",
   "name": "distil"
