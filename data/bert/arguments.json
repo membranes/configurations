@@ -14,6 +14,8 @@
   "N_GPU": 1,
   "N_TRIALS": 2,
   "perturbation_interval": 2,
+  "quantile_fraction": 0.25,
+  "resample_probability": 0.25,
   "task": "ner",
   "pretrained_model_name": "google-bert/bert-base-uncased",
   "name": "bert"
