@@ -1,5 +1,5 @@
 {
-  "learning_rate": [0.000015, 0.000020],
+  "learning_rate": [0.0000160, 0.0000175],
   "weight_decay": [0.0, 0.01],
   "per_device_train_batch_size": [4, 16, 64]
 }
