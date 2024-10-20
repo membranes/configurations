@@ -13,7 +13,7 @@ Ray's <a href="https://docs.ray.io/en/latest/tune/api/doc/ray.tune.schedulers.Po
 * $quantile\\_fraction$
 * $resample\\_probability$
 
-These parameters are <a href="https://docs.ray.io/en/latest/tune/api/doc/ray.tune.schedulers.PopulationBasedTraining.html" target="_blank">defined within the population based training pages</a>. 
+These parameters are <a href="https://docs.ray.io/en/latest/tune/api/doc/ray.tune.schedulers.PopulationBasedTraining.html" target="_blank">defined within the population based training pages</a>.  The hyperparameter spaces are set within the `hyperspace.json` files.
 
 <br>
 <br>
