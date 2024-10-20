@@ -18,5 +18,5 @@
   "resample_probability": 0.25,
   "task": "ner",
   "pretrained_model_name": "distilbert/distilbert-base-uncased",
-  "name": "distil"
+  "architecture": "distil"
 }
