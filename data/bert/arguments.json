@@ -13,6 +13,7 @@
   "N_CPU": 8,
   "N_GPU": 1,
   "N_TRIALS": 2,
+  "save_total_limit": 5,
   "perturbation_interval": 2,
   "quantile_fraction": 0.25,
   "resample_probability": 0.25,
