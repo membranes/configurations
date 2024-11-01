@@ -12,7 +12,7 @@
   "N_TEST": null,
   "N_CPU": 4,
   "N_GPU": 1,
-  "N_TRIALS": 4,
+  "N_TRIALS": 2,
   "save_total_limit": 5,
   "perturbation_interval": 2,
   "quantile_fraction": 0.25,
