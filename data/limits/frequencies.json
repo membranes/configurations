@@ -1,4 +1,6 @@
 {
-  "lower": 3500,
-  "upper": 11195
+  "frequency": {
+    "lower": 3500,
+    "upper": 11195
+  }
 }
