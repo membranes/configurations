@@ -1,6 +1,26 @@
 {
-  "frequency": {
-    "lower": 3500,
-    "upper": 11195
+  "GEO": {
+    "minimum": 2000,
+    "maximum": 4100
+  },
+  "GPE": {
+    "minimum": 1500,
+    "maximum": 3000
+  },
+  "ORG": {
+    "minimum": 1500,
+    "maximum": 3500
+  },
+  "PER": {
+    "minimum": 2500,
+    "maximum": 5750
+  },
+  "TIM": {
+    "minimum": 750,
+    "maximum": 1150
+  },
+  "O": {
+    "minimum": 85000,
+    "maximum": 127000
   }
 }
