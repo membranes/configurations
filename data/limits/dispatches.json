@@ -1,4 +1,8 @@
 {
-		"minimum": 17000,
-		"maximum": 23000
+	"index": ["minimum", "maximum"],
+	"columns": ["n_documents", "n_words_per_documents"],
+	"data": [
+		[17000, 500],
+		[23000, 15000]
+	]
 }
