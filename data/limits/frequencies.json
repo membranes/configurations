@@ -1,26 +1,26 @@
 {
   "GEO": {
-    "minimum": 2000,
-    "maximum": 4100
+    "minimum": 0.10,
+    "maximum": 0.25
   },
   "GPE": {
-    "minimum": 1500,
-    "maximum": 3000
+    "minimum": 0.075,
+    "maximum": 0.20
   },
   "ORG": {
-    "minimum": 1500,
-    "maximum": 3500
+    "minimum": 0.05,
+    "maximum": 0.15
   },
   "PER": {
-    "minimum": 2500,
-    "maximum": 5750
+    "minimum": 0.20,
+    "maximum": 0.50
   },
   "TIM": {
-    "minimum": 750,
-    "maximum": 1150
+    "minimum": 0.075,
+    "maximum": 0.10
   },
   "O": {
-    "minimum": 85000,
-    "maximum": 127000
+    "minimum": 98.80,
+    "maximum": 99.50
   }
 }
