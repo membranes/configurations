@@ -13,7 +13,7 @@
   "N_CPU": 8,
   "N_GPU": 1,
   "N_TRIALS": 2,
-  "N_INSTANCES": 35000,
+  "N_INSTANCES": 44000,
   "save_total_limit": 5,
   "early_stopping_patience": 3,
   "perturbation_interval": 2,
